@@ -1,0 +1,16 @@
+ 
+ .\venv\Scripts\Activate.ps1
+ uvicorn app.main:app --reload
+
+frontend
+ npm run dev
+
+
+ http://localhost:3000/admin/dashboard
+
+
+
+Admin
+  email: admin@marketplace.com
+  password: password123,
+ 

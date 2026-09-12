@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Full Marketplace MVP"
+git branch -M main
+git remote add origin https://github.com/sikandarimran01/marketplace-platform.git
+git push -u origin main
