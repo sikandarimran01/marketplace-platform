@@ -10,7 +10,21 @@ frontend
 
 
 
-Admin
-  email: admin@marketplace.com
-  password: password123,
+Login as a Admin
+
+email: sikandarimran01@gmail.com
+password: Minahilbeti@02
+  http://localhost:3000/admin/dashboard
+
+
+login as a seller
+email: afshansikndar123786@gmail.com
+password: Minahilbeti@02
+
+http://localhost:3000/seller/dashboard
+
+
+login as a buyer
+email: princessminahilsikandar01@gmail.com
+password: Minahilbeti@02
  
